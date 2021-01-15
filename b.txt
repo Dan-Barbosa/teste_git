@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Mesmo codigo
-=======
 Mesmo código
->>>>>>> ramo_teste

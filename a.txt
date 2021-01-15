@@ -1,7 +1,4 @@
 teste
 Entendendo o HEAD
-<<<<<<< HEAD
 Modificada no ramo master
-=======
 Modificação no ramo_teste
->>>>>>> ramo_teste
